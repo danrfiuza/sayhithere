@@ -1,8 +1,14 @@
 {
     "name": "danrfiuza/sayhithere",
     "description": "A simple library created to practice publishing packages with composer",
+    "require": {
+        "php": ">=7.3"
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
     "require-dev": {
-        "phpunit/phpunit": "6.5"
+        "phpunit/phpunit": "^9"
     },
     "type": "library",
     "version": "1.0",
