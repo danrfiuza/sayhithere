@@ -1,6 +1,6 @@
 {
-    "name": "danrfiuza/composerpackage",
-    "description": "Test package",
+    "name": "danrfiuza/sayhithere",
+    "description": "A simple library created to practice publishing packages with composer",
     "require-dev": {
         "phpunit/phpunit": "6.5"
     },
